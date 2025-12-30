@@ -1,1 +1,28 @@
-{"flutter":{"platforms":{"android":{"default":{"projectId":"epitaphh","appId":"1:144599278990:android:2721e1886a5741723630df","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"epitaphh","configurations":{"android":"1:144599278990:android:2721e1886a5741723630df","web":"1:144599278990:web:458114d664761c1d3630df"}}}}}}
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "epitaphh",
+          "appId": "1:144599278990:android:2721e1886a5741723630df",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "epitaphh",
+          "configurations": {
+            "android": "1:144599278990:android:2721e1886a5741723630df",
+            "web": "1:144599278990:web:458114d664761c1d3630df"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "database": "(default)",
+    "location": "nam5",
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  }
+}
