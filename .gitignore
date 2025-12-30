@@ -1,0 +1,47 @@
+
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Visual Studio Code
+.vscode/
+
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+/build/
+ios/Pods/
+ios/Flutter/App.framework
+ios/Flutter/engine.framework
+ios/Flutter/flutter_assets/
+ios/Flutter/Generated.xcconfig
+ios/.symlinks/
+ios/Runner/GeneratedPluginRegistrant.h
+ios/Runner/GeneratedPluginRegistrant.m
+
+# Android
+#
+# Omit the entire .android directory.
+#
+# If you want to include third-pary libraries that are not available from
+# a remote repository, you can manage them in a libs/ directory and include
+# them by adding the following line to the .gitignore file:
+#
+# !/android/app/libs/
+#
+# /android/
